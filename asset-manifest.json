@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ValuteConverter-test/static/css/main.693991fc.chunk.css",
+    "main.js": "/ValuteConverter-test/static/js/main.f1589e51.chunk.js",
+    "main.js.map": "/ValuteConverter-test/static/js/main.f1589e51.chunk.js.map",
+    "runtime-main.js": "/ValuteConverter-test/static/js/runtime-main.0035e253.js",
+    "runtime-main.js.map": "/ValuteConverter-test/static/js/runtime-main.0035e253.js.map",
+    "static/js/2.7954c22c.chunk.js": "/ValuteConverter-test/static/js/2.7954c22c.chunk.js",
+    "static/js/2.7954c22c.chunk.js.map": "/ValuteConverter-test/static/js/2.7954c22c.chunk.js.map",
+    "static/js/3.1d83e9cc.chunk.js": "/ValuteConverter-test/static/js/3.1d83e9cc.chunk.js",
+    "static/js/3.1d83e9cc.chunk.js.map": "/ValuteConverter-test/static/js/3.1d83e9cc.chunk.js.map",
+    "index.html": "/ValuteConverter-test/index.html",
+    "static/css/main.693991fc.chunk.css.map": "/ValuteConverter-test/static/css/main.693991fc.chunk.css.map",
+    "static/js/2.7954c22c.chunk.js.LICENSE.txt": "/ValuteConverter-test/static/js/2.7954c22c.chunk.js.LICENSE.txt",
+    "static/media/Arrow1.a7bbddf8.svg": "/ValuteConverter-test/static/media/Arrow1.a7bbddf8.svg",
+    "static/media/Arrow2.907e579d.svg": "/ValuteConverter-test/static/media/Arrow2.907e579d.svg",
+    "static/media/SelectChecked.5d713d9a.svg": "/ValuteConverter-test/static/media/SelectChecked.5d713d9a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0035e253.js",
+    "static/js/2.7954c22c.chunk.js",
+    "static/css/main.693991fc.chunk.css",
+    "static/js/main.f1589e51.chunk.js"
+  ]
+}
